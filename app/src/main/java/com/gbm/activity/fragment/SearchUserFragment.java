@@ -30,7 +30,7 @@ import com.gbm.vo.UserVO;
 import java.util.List;
 
 /**
- * Creted by Vinoth on 9/12/2017.
+ * Created by Vinoth on 9/12/2017.
  */
 
 public class SearchUserFragment extends Fragment {

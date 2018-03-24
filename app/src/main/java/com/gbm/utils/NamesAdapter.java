@@ -14,7 +14,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Creted by Vinoth on 9/28/2017.
+ * Created by Vinoth on 9/28/2017.
  */
 public class NamesAdapter extends ArrayAdapter<String> {
 

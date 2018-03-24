@@ -5,7 +5,7 @@ import java.math.BigDecimal;
 import java.util.List;
 
 /**
- * Creted by Vinoth on 9/6/2017.
+ * Created by Vinoth on 9/6/2017.
  */
 
 public class InvoiceVO implements Serializable {

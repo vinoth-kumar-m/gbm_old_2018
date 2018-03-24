@@ -37,7 +37,7 @@ import com.gbm.vo.ProductVO;
 import java.io.File;
 
 /**
- * Creted by Vinoth on 9/12/2017.
+ * Created by Vinoth on 9/12/2017.
  */
 
 public class ViewBookingFragment extends Fragment {

@@ -32,7 +32,7 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * Creted by Vinoth on 9/6/2017.
+ * Created by Vinoth on 9/6/2017.
  */
 
 public class GBMDBUtils {

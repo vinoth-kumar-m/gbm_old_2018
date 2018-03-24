@@ -42,7 +42,7 @@ import java.util.Calendar;
 import java.util.List;
 
 /**
- * Creted by Vinoth on 9/12/2017.
+ * Created by Vinoth on 9/12/2017.
  */
 
 public class AddCustomerFragment extends Fragment {

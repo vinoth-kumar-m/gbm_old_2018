@@ -1,7 +1,7 @@
 package com.gbm.activity;
 
 /**
- * Creted by Vinoth on 9/7/2017.
+ * Created by Vinoth on 9/7/2017.
  */
 
 import android.app.ProgressDialog;

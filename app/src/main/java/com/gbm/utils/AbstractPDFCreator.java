@@ -15,7 +15,7 @@ import java.io.File;
 import java.io.FileOutputStream;
 
 /**
- * Creted by Vinoth on 9/28/2017.
+ * Created by Vinoth on 9/28/2017.
  */
 
 public abstract class AbstractPDFCreator implements PDFCreator {
