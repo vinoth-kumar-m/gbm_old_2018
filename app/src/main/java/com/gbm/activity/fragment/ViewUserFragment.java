@@ -18,7 +18,7 @@ import com.gbm.db.GBMDBUtils;
 import com.gbm.vo.UserVO;
 
 /**
- * Created by Sri on 9/12/2017.
+ * Creted by Vinoth on 9/12/2017.
  */
 
 public class ViewUserFragment extends Fragment {

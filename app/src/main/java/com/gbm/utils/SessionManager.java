@@ -7,7 +7,7 @@ import android.content.SharedPreferences;
 import com.gbm.activity.LoginActivity;
 
 /**
- * Created by Sri on 9/7/2017.
+ * Creted by Vinoth on 9/7/2017.
  */
 
 public class SessionManager {

@@ -4,7 +4,7 @@ import java.io.Serializable;
 import java.math.BigDecimal;
 
 /**
- * Created by Sri on 9/6/2017.
+ * Creted by Vinoth on 9/6/2017.
  */
 
 public class SettingsVO implements Serializable {

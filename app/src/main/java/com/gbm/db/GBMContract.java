@@ -3,7 +3,7 @@ package com.gbm.db;
 import android.provider.BaseColumns;
 
 /**
- * Created by Sri on 9/6/2017.
+ * Creted by Vinoth on 9/6/2017.
  */
 
 public final class GBMContract {

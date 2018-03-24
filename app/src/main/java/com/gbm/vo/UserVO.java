@@ -3,7 +3,7 @@ package com.gbm.vo;
 import java.io.Serializable;
 
 /**
- * Created by Sri on 9/6/2017.
+ * Creted by Vinoth on 9/6/2017.
  */
 
 public class UserVO implements Serializable {

@@ -18,7 +18,7 @@ import com.gbm.vo.SettingsVO;
 import java.math.BigDecimal;
 
 /**
- * Created by Sri on 9/12/2017.
+ * Creted by Vinoth on 9/12/2017.
  */
 
 public class ViewSettingsFragment extends Fragment {
